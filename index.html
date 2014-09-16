@@ -1,0 +1,66 @@
+<html>
+  <head>
+    <style type="text/css">
+      #map-canvas {
+       width: 100%;
+       height: 100%;
+      }
+    </style>
+  </head>
+  <body>
+  <div id="map-canvas"/>
+  </body>
+  <!-- replace with your API key -->
+  <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCWsh8x-SGkMBFhVvmFr8RSzd76UW63zmM&sensor=true"></script>
+  <script type="text/javascript">
+    var map;
+    function getJson( url ) {
+      var req = new XMLHttpRequest();
+      req.open( "GET", url, true );
+      req.setRequestHeader("Content-type", "application/json");
+      req.onreadystatechange = function() {
+        if( req.readyState == 4 && req.status == 200 ) {
+          var response = JSON.parse( req.responseText );
+          mapInitialize( response[0].lat, response[0].lon );
+          plotGeo( response );
+        }
+      }
+      req.send();
+    }
+    function mapInitialize( lat, lon ) {
+      var mapOptions = {
+        zoom: 17,
+        center: new google.maps.LatLng( lat, lon )
+      };
+      map = new google.maps.Map(document.getElementById('map-canvas'),
+          mapOptions);
+    }
+    function plotGeo( jsonData ) {
+      var len = jsonData.length;
+      var pathCoords = [];
+      for( var i = 0; i < len; i++ ) {
+        var infowindow = new google.maps.InfoWindow({
+          content: "<b>timestamp</b>: " + jsonData[i].timestamp
+        });
+        var latLngObj = new google.maps.LatLng( jsonData[i].lat, jsonData[i].lon );
+        var marker = new google.maps.Marker({
+          position: latLngObj,
+          map: map
+        });
+        google.maps.event.addListener( marker, 'click', function() {
+          infowindow.open( map, marker );
+        });
+        pathCoords.push( latLngObj );
+      }
+      var drawnPath = new google.maps.Polyline({
+        path: pathCoords,
+        geodesic: true,
+        strokeColor: '#FF0000',
+        strokeOpacity: 1.0,
+        strokeWeight: 2
+      });
+      drawnPath.setMap(map);
+    }
+    getJson( 'geo.json' );
+  </script>
+</html>
