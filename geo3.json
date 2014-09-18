@@ -1,0 +1,2912 @@
+[ 
+        {
+            "lat" : "33.8094445",
+            "lon" : "-84.4251124",
+            "accuracy" : "9",
+            "altitude" : "251",
+            "altitudeAccuracy" : "null",
+            "heading" : "null",
+            "speed" : "null",
+            "timestamp" : "Thu, 18 Sep 2014 00:21:36 GMT"
+        }, 
+        {
+            "lat" : "33.8094449",
+            "lon" : "-84.4251122",
+            "accuracy" : "8",
+            "altitude" : "251",
+            "altitudeAccuracy" : "null",
+            "heading" : "null",
+            "speed" : "null",
+            "timestamp" : "Thu, 18 Sep 2014 00:21:36 GMT"
+        }, 
+        {
+            "lat" : "33.8094441",
+            "lon" : "-84.4250946",
+            "accuracy" : "7",
+            "altitude" : "251",
+            "altitudeAccuracy" : "null",
+            "heading" : "93",
+            "speed" : "1.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:21:37 GMT"
+        }, 
+        {
+            "lat" : "33.8094441",
+            "lon" : "-84.4250946",
+            "accuracy" : "7",
+            "altitude" : "251",
+            "altitudeAccuracy" : "null",
+            "heading" : "93",
+            "speed" : "1.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:21:38 GMT"
+        }, 
+        {
+            "lat" : "33.8094717",
+            "lon" : "-84.4250348",
+            "accuracy" : "5",
+            "altitude" : "267.70001220703125",
+            "altitudeAccuracy" : "null",
+            "heading" : "88",
+            "speed" : "2.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:21:38 GMT"
+        }, 
+        {
+            "lat" : "33.8094911",
+            "lon" : "-84.4249769",
+            "accuracy" : "5",
+            "altitude" : "267.3999938964844",
+            "altitudeAccuracy" : "null",
+            "heading" : "88",
+            "speed" : "3",
+            "timestamp" : "Thu, 18 Sep 2014 00:21:40 GMT"
+        }, 
+        {
+            "lat" : "33.8095049",
+            "lon" : "-84.4249067",
+            "accuracy" : "5",
+            "altitude" : "264",
+            "altitudeAccuracy" : "null",
+            "heading" : "87",
+            "speed" : "4.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:21:40 GMT"
+        }, 
+        {
+            "lat" : "33.8095191",
+            "lon" : "-84.4248375",
+            "accuracy" : "6",
+            "altitude" : "260",
+            "altitudeAccuracy" : "null",
+            "heading" : "87",
+            "speed" : "4.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:21:41 GMT"
+        }, 
+        {
+            "lat" : "33.809528",
+            "lon" : "-84.4247644",
+            "accuracy" : "6",
+            "altitude" : "252.60000610351562",
+            "altitudeAccuracy" : "null",
+            "heading" : "86",
+            "speed" : "5",
+            "timestamp" : "Thu, 18 Sep 2014 00:21:43 GMT"
+        }, 
+        {
+            "lat" : "33.809528",
+            "lon" : "-84.4247644",
+            "accuracy" : "6",
+            "altitude" : "252.60000610351562",
+            "altitudeAccuracy" : "null",
+            "heading" : "86",
+            "speed" : "5",
+            "timestamp" : "Thu, 18 Sep 2014 00:21:43 GMT"
+        }, 
+        {
+            "lat" : "33.8095306",
+            "lon" : "-84.4247105",
+            "accuracy" : "7",
+            "altitude" : "252.6999969482422",
+            "altitudeAccuracy" : "null",
+            "heading" : "86",
+            "speed" : "5",
+            "timestamp" : "Thu, 18 Sep 2014 00:21:43 GMT"
+        }, 
+        {
+            "lat" : "33.8095807",
+            "lon" : "-84.4245564",
+            "accuracy" : "6",
+            "altitude" : "246.1999969482422",
+            "altitudeAccuracy" : "null",
+            "heading" : "83",
+            "speed" : "5.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:21:45 GMT"
+        }, 
+        {
+            "lat" : "33.8095997",
+            "lon" : "-84.4244916",
+            "accuracy" : "5",
+            "altitude" : "246.3000030517578",
+            "altitudeAccuracy" : "null",
+            "heading" : "77",
+            "speed" : "6.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:21:45 GMT"
+        }, 
+        {
+            "lat" : "33.8096032",
+            "lon" : "-84.4244206",
+            "accuracy" : "6",
+            "altitude" : "248.1999969482422",
+            "altitudeAccuracy" : "null",
+            "heading" : "74",
+            "speed" : "6.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:21:47 GMT"
+        }, 
+        {
+            "lat" : "33.8096087",
+            "lon" : "-84.4243524",
+            "accuracy" : "6",
+            "altitude" : "247.89999389648438",
+            "altitudeAccuracy" : "null",
+            "heading" : "75",
+            "speed" : "6.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:21:48 GMT"
+        }, 
+        {
+            "lat" : "33.8095937",
+            "lon" : "-84.424262",
+            "accuracy" : "6",
+            "altitude" : "247.3000030517578",
+            "altitudeAccuracy" : "null",
+            "heading" : "80",
+            "speed" : "6.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:21:48 GMT"
+        }, 
+        {
+            "lat" : "33.8094997",
+            "lon" : "-84.4242075",
+            "accuracy" : "5",
+            "altitude" : "249.10000610351562",
+            "altitudeAccuracy" : "null",
+            "heading" : "97",
+            "speed" : "6.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:21:49 GMT"
+        }, 
+        {
+            "lat" : "33.8094839",
+            "lon" : "-84.4241408",
+            "accuracy" : "5",
+            "altitude" : "244.10000610351562",
+            "altitudeAccuracy" : "null",
+            "heading" : "93",
+            "speed" : "5.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:21:50 GMT"
+        }, 
+        {
+            "lat" : "33.8094715",
+            "lon" : "-84.4240671",
+            "accuracy" : "5",
+            "altitude" : "247.39999389648438",
+            "altitudeAccuracy" : "null",
+            "heading" : "93",
+            "speed" : "5.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:21:52 GMT"
+        }, 
+        {
+            "lat" : "33.8094595",
+            "lon" : "-84.424013",
+            "accuracy" : "4",
+            "altitude" : "246.39999389648438",
+            "altitudeAccuracy" : "null",
+            "heading" : "95",
+            "speed" : "5",
+            "timestamp" : "Thu, 18 Sep 2014 00:21:52 GMT"
+        }, 
+        {
+            "lat" : "33.8094532",
+            "lon" : "-84.4239588",
+            "accuracy" : "5",
+            "altitude" : "246.3000030517578",
+            "altitudeAccuracy" : "null",
+            "heading" : "93",
+            "speed" : "4.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:21:53 GMT"
+        }, 
+        {
+            "lat" : "33.8094464",
+            "lon" : "-84.4239042",
+            "accuracy" : "5",
+            "altitude" : "247.8000030517578",
+            "altitudeAccuracy" : "null",
+            "heading" : "93",
+            "speed" : "4.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:21:54 GMT"
+        }, 
+        {
+            "lat" : "33.809465",
+            "lon" : "-84.4239047",
+            "accuracy" : "4",
+            "altitude" : "246.6999969482422",
+            "altitudeAccuracy" : "null",
+            "heading" : "80",
+            "speed" : "3",
+            "timestamp" : "Thu, 18 Sep 2014 00:21:55 GMT"
+        }, 
+        {
+            "lat" : "33.8094422",
+            "lon" : "-84.4238622",
+            "accuracy" : "4",
+            "altitude" : "247.8000030517578",
+            "altitudeAccuracy" : "null",
+            "heading" : "85",
+            "speed" : "3",
+            "timestamp" : "Thu, 18 Sep 2014 00:21:56 GMT"
+        }, 
+        {
+            "lat" : "33.8094369",
+            "lon" : "-84.4238193",
+            "accuracy" : "4",
+            "altitude" : "247.6999969482422",
+            "altitudeAccuracy" : "null",
+            "heading" : "85",
+            "speed" : "3.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:21:57 GMT"
+        }, 
+        {
+            "lat" : "33.8094446",
+            "lon" : "-84.4237741",
+            "accuracy" : "4",
+            "altitude" : "249",
+            "altitudeAccuracy" : "null",
+            "heading" : "84",
+            "speed" : "3.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:21:58 GMT"
+        }, 
+        {
+            "lat" : "33.8094558",
+            "lon" : "-84.4237229",
+            "accuracy" : "4",
+            "altitude" : "250.5",
+            "altitudeAccuracy" : "null",
+            "heading" : "87",
+            "speed" : "4.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:21:59 GMT"
+        }, 
+        {
+            "lat" : "33.8094599",
+            "lon" : "-84.4236852",
+            "accuracy" : "4",
+            "altitude" : "251.6999969482422",
+            "altitudeAccuracy" : "null",
+            "heading" : "76",
+            "speed" : "3.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:00 GMT"
+        }, 
+        {
+            "lat" : "33.8094615",
+            "lon" : "-84.4236391",
+            "accuracy" : "4",
+            "altitude" : "252.6999969482422",
+            "altitudeAccuracy" : "null",
+            "heading" : "75",
+            "speed" : "3.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:01 GMT"
+        }, 
+        {
+            "lat" : "33.8094636",
+            "lon" : "-84.4235987",
+            "accuracy" : "4",
+            "altitude" : "251.8000030517578",
+            "altitudeAccuracy" : "null",
+            "heading" : "80",
+            "speed" : "3.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:02 GMT"
+        }, 
+        {
+            "lat" : "33.8094596",
+            "lon" : "-84.4235545",
+            "accuracy" : "5",
+            "altitude" : "251.1999969482422",
+            "altitudeAccuracy" : "null",
+            "heading" : "85",
+            "speed" : "3.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:03 GMT"
+        }, 
+        {
+            "lat" : "33.809464",
+            "lon" : "-84.4235177",
+            "accuracy" : "4",
+            "altitude" : "254.5",
+            "altitudeAccuracy" : "null",
+            "heading" : "79",
+            "speed" : "3.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:04 GMT"
+        }, 
+        {
+            "lat" : "33.8094713",
+            "lon" : "-84.4234864",
+            "accuracy" : "4",
+            "altitude" : "258",
+            "altitudeAccuracy" : "null",
+            "heading" : "76",
+            "speed" : "3.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:05 GMT"
+        }, 
+        {
+            "lat" : "33.8094812",
+            "lon" : "-84.4234581",
+            "accuracy" : "4",
+            "altitude" : "258.70001220703125",
+            "altitudeAccuracy" : "null",
+            "heading" : "68",
+            "speed" : "3.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:06 GMT"
+        }, 
+        {
+            "lat" : "33.8094885",
+            "lon" : "-84.4234338",
+            "accuracy" : "4",
+            "altitude" : "259.20001220703125",
+            "altitudeAccuracy" : "null",
+            "heading" : "67",
+            "speed" : "2.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:07 GMT"
+        }, 
+        {
+            "lat" : "33.8094924",
+            "lon" : "-84.4234051",
+            "accuracy" : "4",
+            "altitude" : "259.20001220703125",
+            "altitudeAccuracy" : "null",
+            "heading" : "72",
+            "speed" : "2.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:08 GMT"
+        }, 
+        {
+            "lat" : "33.8094931",
+            "lon" : "-84.4233689",
+            "accuracy" : "4",
+            "altitude" : "260.79998779296875",
+            "altitudeAccuracy" : "null",
+            "heading" : "80",
+            "speed" : "3",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:09 GMT"
+        }, 
+        {
+            "lat" : "33.8094935",
+            "lon" : "-84.4233293",
+            "accuracy" : "4",
+            "altitude" : "262.1000061035156",
+            "altitudeAccuracy" : "null",
+            "heading" : "84",
+            "speed" : "3.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:10 GMT"
+        }, 
+        {
+            "lat" : "33.8094929",
+            "lon" : "-84.4232802",
+            "accuracy" : "5",
+            "altitude" : "262.3999938964844",
+            "altitudeAccuracy" : "null",
+            "heading" : "85",
+            "speed" : "3.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:11 GMT"
+        }, 
+        {
+            "lat" : "33.809483",
+            "lon" : "-84.4232383",
+            "accuracy" : "4",
+            "altitude" : "262.29998779296875",
+            "altitudeAccuracy" : "null",
+            "heading" : "95",
+            "speed" : "3.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:12 GMT"
+        }, 
+        {
+            "lat" : "33.8094663",
+            "lon" : "-84.4232059",
+            "accuracy" : "4",
+            "altitude" : "261.8999938964844",
+            "altitudeAccuracy" : "null",
+            "heading" : "110",
+            "speed" : "3",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:13 GMT"
+        }, 
+        {
+            "lat" : "33.8094445",
+            "lon" : "-84.4231848",
+            "accuracy" : "4",
+            "altitude" : "261.29998779296875",
+            "altitudeAccuracy" : "null",
+            "heading" : "135",
+            "speed" : "2.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:14 GMT"
+        }, 
+        {
+            "lat" : "33.8094283",
+            "lon" : "-84.4231656",
+            "accuracy" : "7",
+            "altitude" : "261.5",
+            "altitudeAccuracy" : "null",
+            "heading" : "135",
+            "speed" : "2.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:15 GMT"
+        }, 
+        {
+            "lat" : "33.8094163",
+            "lon" : "-84.4231856",
+            "accuracy" : "4",
+            "altitude" : "262.1000061035156",
+            "altitudeAccuracy" : "null",
+            "heading" : "195",
+            "speed" : "1.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:17 GMT"
+        }, 
+        {
+            "lat" : "33.8094063",
+            "lon" : "-84.4231917",
+            "accuracy" : "4",
+            "altitude" : "256.70001220703125",
+            "altitudeAccuracy" : "null",
+            "heading" : "220",
+            "speed" : "1.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:17 GMT"
+        }, 
+        {
+            "lat" : "33.8093959",
+            "lon" : "-84.4231982",
+            "accuracy" : "5",
+            "altitude" : "255.8000030517578",
+            "altitudeAccuracy" : "null",
+            "heading" : "230",
+            "speed" : "1.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:19 GMT"
+        }, 
+        {
+            "lat" : "33.8093812",
+            "lon" : "-84.4231998",
+            "accuracy" : "5",
+            "altitude" : "255",
+            "altitudeAccuracy" : "null",
+            "heading" : "217",
+            "speed" : "1.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:20 GMT"
+        }, 
+        {
+            "lat" : "33.8093572",
+            "lon" : "-84.423195",
+            "accuracy" : "5",
+            "altitude" : "256.29998779296875",
+            "altitudeAccuracy" : "null",
+            "heading" : "194",
+            "speed" : "1.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:20 GMT"
+        }, 
+        {
+            "lat" : "33.8093334",
+            "lon" : "-84.4231827",
+            "accuracy" : "5",
+            "altitude" : "258.3999938964844",
+            "altitudeAccuracy" : "null",
+            "heading" : "174",
+            "speed" : "1.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:21 GMT"
+        }, 
+        {
+            "lat" : "33.8093088",
+            "lon" : "-84.4231652",
+            "accuracy" : "5",
+            "altitude" : "257.5",
+            "altitudeAccuracy" : "null",
+            "heading" : "157",
+            "speed" : "1.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:22 GMT"
+        }, 
+        {
+            "lat" : "33.8092755",
+            "lon" : "-84.423135",
+            "accuracy" : "5",
+            "altitude" : "257.20001220703125",
+            "altitudeAccuracy" : "null",
+            "heading" : "140",
+            "speed" : "2.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:24 GMT"
+        }, 
+        {
+            "lat" : "33.8092444",
+            "lon" : "-84.4231028",
+            "accuracy" : "5",
+            "altitude" : "258.29998779296875",
+            "altitudeAccuracy" : "null",
+            "heading" : "129",
+            "speed" : "2.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:25 GMT"
+        }, 
+        {
+            "lat" : "33.8092163",
+            "lon" : "-84.4230706",
+            "accuracy" : "5",
+            "altitude" : "257.8999938964844",
+            "altitudeAccuracy" : "null",
+            "heading" : "119",
+            "speed" : "2.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:26 GMT"
+        }, 
+        {
+            "lat" : "33.8092006",
+            "lon" : "-84.4230484",
+            "accuracy" : "5",
+            "altitude" : "261.6000061035156",
+            "altitudeAccuracy" : "null",
+            "heading" : "109",
+            "speed" : "1.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:26 GMT"
+        }, 
+        {
+            "lat" : "33.8091954",
+            "lon" : "-84.423031",
+            "accuracy" : "5",
+            "altitude" : "261.8999938964844",
+            "altitudeAccuracy" : "null",
+            "heading" : "79",
+            "speed" : "1.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:28 GMT"
+        }, 
+        {
+            "lat" : "33.8092139",
+            "lon" : "-84.4230267",
+            "accuracy" : "4",
+            "altitude" : "262.3999938964844",
+            "altitudeAccuracy" : "null",
+            "heading" : "11",
+            "speed" : "2",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:28 GMT"
+        }, 
+        {
+            "lat" : "33.8092384",
+            "lon" : "-84.4230165",
+            "accuracy" : "5",
+            "altitude" : "261.70001220703125",
+            "altitudeAccuracy" : "null",
+            "heading" : "12",
+            "speed" : "2.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:29 GMT"
+        }, 
+        {
+            "lat" : "33.809266",
+            "lon" : "-84.4230051",
+            "accuracy" : "5",
+            "altitude" : "261.6000061035156",
+            "altitudeAccuracy" : "null",
+            "heading" : "11",
+            "speed" : "2.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:30 GMT"
+        }, 
+        {
+            "lat" : "33.8093057",
+            "lon" : "-84.4229877",
+            "accuracy" : "5",
+            "altitude" : "262",
+            "altitudeAccuracy" : "null",
+            "heading" : "12",
+            "speed" : "3.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:31 GMT"
+        }, 
+        {
+            "lat" : "33.8093364",
+            "lon" : "-84.4229688",
+            "accuracy" : "5",
+            "altitude" : "260.70001220703125",
+            "altitudeAccuracy" : "null",
+            "heading" : "13",
+            "speed" : "3.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:33 GMT"
+        }, 
+        {
+            "lat" : "33.8093696",
+            "lon" : "-84.4229437",
+            "accuracy" : "10",
+            "altitude" : "258.8999938964844",
+            "altitudeAccuracy" : "null",
+            "heading" : "16",
+            "speed" : "3.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:33 GMT"
+        }, 
+        {
+            "lat" : "33.8094025",
+            "lon" : "-84.4229203",
+            "accuracy" : "10",
+            "altitude" : "258.8999938964844",
+            "altitudeAccuracy" : "null",
+            "heading" : "15",
+            "speed" : "3.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:35 GMT"
+        }, 
+        {
+            "lat" : "33.8094374",
+            "lon" : "-84.4228999",
+            "accuracy" : "10",
+            "altitude" : "258.1000061035156",
+            "altitudeAccuracy" : "null",
+            "heading" : "13",
+            "speed" : "3.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:35 GMT"
+        }, 
+        {
+            "lat" : "33.809476",
+            "lon" : "-84.4228782",
+            "accuracy" : "10",
+            "altitude" : "255.1999969482422",
+            "altitudeAccuracy" : "null",
+            "heading" : "11",
+            "speed" : "3.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:37 GMT"
+        }, 
+        {
+            "lat" : "33.8095167",
+            "lon" : "-84.4228641",
+            "accuracy" : "10",
+            "altitude" : "255.60000610351562",
+            "altitudeAccuracy" : "null",
+            "heading" : "5",
+            "speed" : "4",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:38 GMT"
+        }, 
+        {
+            "lat" : "33.8095643",
+            "lon" : "-84.4228538",
+            "accuracy" : "11",
+            "altitude" : "254.39999389648438",
+            "altitudeAccuracy" : "null",
+            "heading" : "1",
+            "speed" : "4.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:39 GMT"
+        }, 
+        {
+            "lat" : "33.8096118",
+            "lon" : "-84.4228466",
+            "accuracy" : "11",
+            "altitude" : "255.10000610351562",
+            "altitudeAccuracy" : "null",
+            "heading" : "357",
+            "speed" : "4.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:39 GMT"
+        }, 
+        {
+            "lat" : "33.8096563",
+            "lon" : "-84.4228366",
+            "accuracy" : "10",
+            "altitude" : "257.79998779296875",
+            "altitudeAccuracy" : "null",
+            "heading" : "359",
+            "speed" : "4.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:41 GMT"
+        }, 
+        {
+            "lat" : "33.8096995",
+            "lon" : "-84.422825",
+            "accuracy" : "11",
+            "altitude" : "258",
+            "altitudeAccuracy" : "null",
+            "heading" : "1",
+            "speed" : "4.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:41 GMT"
+        }, 
+        {
+            "lat" : "33.8097374",
+            "lon" : "-84.4228069",
+            "accuracy" : "11",
+            "altitude" : "256.70001220703125",
+            "altitudeAccuracy" : "null",
+            "heading" : "9",
+            "speed" : "4.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:43 GMT"
+        }, 
+        {
+            "lat" : "33.8097667",
+            "lon" : "-84.4227819",
+            "accuracy" : "10",
+            "altitude" : "258.1000061035156",
+            "altitudeAccuracy" : "null",
+            "heading" : "25",
+            "speed" : "3.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:43 GMT"
+        }, 
+        {
+            "lat" : "33.8097747",
+            "lon" : "-84.4227571",
+            "accuracy" : "10",
+            "altitude" : "258.3999938964844",
+            "altitudeAccuracy" : "null",
+            "heading" : "56",
+            "speed" : "2.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:44 GMT"
+        }, 
+        {
+            "lat" : "33.8097661",
+            "lon" : "-84.4227253",
+            "accuracy" : "10",
+            "altitude" : "258.5",
+            "altitudeAccuracy" : "null",
+            "heading" : "96",
+            "speed" : "3",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:46 GMT"
+        }, 
+        {
+            "lat" : "33.80975",
+            "lon" : "-84.4226931",
+            "accuracy" : "10",
+            "altitude" : "258.79998779296875",
+            "altitudeAccuracy" : "null",
+            "heading" : "111",
+            "speed" : "3.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:46 GMT"
+        }, 
+        {
+            "lat" : "33.8097316",
+            "lon" : "-84.4226575",
+            "accuracy" : "10",
+            "altitude" : "258.5",
+            "altitudeAccuracy" : "null",
+            "heading" : "116",
+            "speed" : "3.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:48 GMT"
+        }, 
+        {
+            "lat" : "33.8097159",
+            "lon" : "-84.4226063",
+            "accuracy" : "10",
+            "altitude" : "257.20001220703125",
+            "altitudeAccuracy" : "null",
+            "heading" : "110",
+            "speed" : "4.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:48 GMT"
+        }, 
+        {
+            "lat" : "33.8097055",
+            "lon" : "-84.4225541",
+            "accuracy" : "10",
+            "altitude" : "256.20001220703125",
+            "altitudeAccuracy" : "null",
+            "heading" : "105",
+            "speed" : "4.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:50 GMT"
+        }, 
+        {
+            "lat" : "33.8096978",
+            "lon" : "-84.4225049",
+            "accuracy" : "10",
+            "altitude" : "255.8000030517578",
+            "altitudeAccuracy" : "null",
+            "heading" : "102",
+            "speed" : "4.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:50 GMT"
+        }, 
+        {
+            "lat" : "33.8096903",
+            "lon" : "-84.4224592",
+            "accuracy" : "10",
+            "altitude" : "255.89999389648438",
+            "altitudeAccuracy" : "null",
+            "heading" : "103",
+            "speed" : "4.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:51 GMT"
+        }, 
+        {
+            "lat" : "33.8096844",
+            "lon" : "-84.4224148",
+            "accuracy" : "10",
+            "altitude" : "255.89999389648438",
+            "altitudeAccuracy" : "null",
+            "heading" : "101",
+            "speed" : "4.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:52 GMT"
+        }, 
+        {
+            "lat" : "33.8096843",
+            "lon" : "-84.422377",
+            "accuracy" : "10",
+            "altitude" : "254",
+            "altitudeAccuracy" : "null",
+            "heading" : "96",
+            "speed" : "3.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:53 GMT"
+        }, 
+        {
+            "lat" : "33.8096906",
+            "lon" : "-84.4223386",
+            "accuracy" : "10",
+            "altitude" : "255.1999969482422",
+            "altitudeAccuracy" : "null",
+            "heading" : "88",
+            "speed" : "3.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:55 GMT"
+        }, 
+        {
+            "lat" : "33.8097032",
+            "lon" : "-84.4223006",
+            "accuracy" : "10",
+            "altitude" : "256.6000061035156",
+            "altitudeAccuracy" : "null",
+            "heading" : "78",
+            "speed" : "3.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:55 GMT"
+        }, 
+        {
+            "lat" : "33.8097161",
+            "lon" : "-84.4222874",
+            "accuracy" : "10",
+            "altitude" : "255",
+            "altitudeAccuracy" : "null",
+            "heading" : "70",
+            "speed" : "2.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:57 GMT"
+        }, 
+        {
+            "lat" : "33.8097353",
+            "lon" : "-84.4222866",
+            "accuracy" : "10",
+            "altitude" : "254",
+            "altitudeAccuracy" : "null",
+            "heading" : "48",
+            "speed" : "2.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:57 GMT"
+        }, 
+        {
+            "lat" : "33.8097379",
+            "lon" : "-84.4223255",
+            "accuracy" : "10",
+            "altitude" : "254.8000030517578",
+            "altitudeAccuracy" : "null",
+            "heading" : "277",
+            "speed" : "1.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:58 GMT"
+        }, 
+        {
+            "lat" : "33.80974",
+            "lon" : "-84.4223436",
+            "accuracy" : "12",
+            "altitude" : "255.5",
+            "altitudeAccuracy" : "null",
+            "heading" : "277",
+            "speed" : "1.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:22:59 GMT"
+        }, 
+        {
+            "lat" : "33.8097433",
+            "lon" : "-84.4223811",
+            "accuracy" : "10",
+            "altitude" : "254.89999389648438",
+            "altitudeAccuracy" : "null",
+            "heading" : "264",
+            "speed" : "1.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:01 GMT"
+        }, 
+        {
+            "lat" : "33.8097494",
+            "lon" : "-84.4224064",
+            "accuracy" : "10",
+            "altitude" : "255.1999969482422",
+            "altitudeAccuracy" : "null",
+            "heading" : "274",
+            "speed" : "1.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:01 GMT"
+        }, 
+        {
+            "lat" : "33.8097573",
+            "lon" : "-84.4224341",
+            "accuracy" : "10",
+            "altitude" : "255.10000610351562",
+            "altitudeAccuracy" : "null",
+            "heading" : "281",
+            "speed" : "1.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:02 GMT"
+        }, 
+        {
+            "lat" : "33.8097683",
+            "lon" : "-84.4224611",
+            "accuracy" : "10",
+            "altitude" : "256",
+            "altitudeAccuracy" : "null",
+            "heading" : "289",
+            "speed" : "2",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:03 GMT"
+        }, 
+        {
+            "lat" : "33.8097779",
+            "lon" : "-84.4224818",
+            "accuracy" : "9",
+            "altitude" : "258.70001220703125",
+            "altitudeAccuracy" : "null",
+            "heading" : "293",
+            "speed" : "1.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:05 GMT"
+        }, 
+        {
+            "lat" : "33.8097866",
+            "lon" : "-84.4225",
+            "accuracy" : "10",
+            "altitude" : "259.1000061035156",
+            "altitudeAccuracy" : "null",
+            "heading" : "295",
+            "speed" : "1.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:05 GMT"
+        }, 
+        {
+            "lat" : "33.8097969",
+            "lon" : "-84.4225198",
+            "accuracy" : "10",
+            "altitude" : "259.79998779296875",
+            "altitudeAccuracy" : "null",
+            "heading" : "295",
+            "speed" : "1.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:06 GMT"
+        }, 
+        {
+            "lat" : "33.8098076",
+            "lon" : "-84.4225366",
+            "accuracy" : "9",
+            "altitude" : "261.79998779296875",
+            "altitudeAccuracy" : "null",
+            "heading" : "296",
+            "speed" : "1.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:07 GMT"
+        }, 
+        {
+            "lat" : "33.8098179",
+            "lon" : "-84.4225562",
+            "accuracy" : "10",
+            "altitude" : "261.79998779296875",
+            "altitudeAccuracy" : "null",
+            "heading" : "296",
+            "speed" : "1.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:09 GMT"
+        }, 
+        {
+            "lat" : "33.809829",
+            "lon" : "-84.4225774",
+            "accuracy" : "10",
+            "altitude" : "262.20001220703125",
+            "altitudeAccuracy" : "null",
+            "heading" : "297",
+            "speed" : "1.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:09 GMT"
+        }, 
+        {
+            "lat" : "33.8098397",
+            "lon" : "-84.4225981",
+            "accuracy" : "10",
+            "altitude" : "262.6000061035156",
+            "altitudeAccuracy" : "null",
+            "heading" : "297",
+            "speed" : "1.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:10 GMT"
+        }, 
+        {
+            "lat" : "33.8098509",
+            "lon" : "-84.4226183",
+            "accuracy" : "10",
+            "altitude" : "263.6000061035156",
+            "altitudeAccuracy" : "null",
+            "heading" : "298",
+            "speed" : "1.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:11 GMT"
+        }, 
+        {
+            "lat" : "33.8098609",
+            "lon" : "-84.4226357",
+            "accuracy" : "10",
+            "altitude" : "263.5",
+            "altitudeAccuracy" : "null",
+            "heading" : "299",
+            "speed" : "1.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:12 GMT"
+        }, 
+        {
+            "lat" : "33.8098708",
+            "lon" : "-84.4226508",
+            "accuracy" : "10",
+            "altitude" : "263.8999938964844",
+            "altitudeAccuracy" : "null",
+            "heading" : "301",
+            "speed" : "1.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:14 GMT"
+        }, 
+        {
+            "lat" : "33.8098813",
+            "lon" : "-84.4226634",
+            "accuracy" : "10",
+            "altitude" : "264.20001220703125",
+            "altitudeAccuracy" : "null",
+            "heading" : "307",
+            "speed" : "1.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:14 GMT"
+        }, 
+        {
+            "lat" : "33.8098846",
+            "lon" : "-84.4226688",
+            "accuracy" : "10",
+            "altitude" : "263.8999938964844",
+            "altitudeAccuracy" : "null",
+            "heading" : "304",
+            "speed" : "0.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:16 GMT"
+        }, 
+        {
+            "lat" : "33.8098882",
+            "lon" : "-84.4226748",
+            "accuracy" : "10",
+            "altitude" : "263.5",
+            "altitudeAccuracy" : "null",
+            "heading" : "304",
+            "speed" : "0.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:16 GMT"
+        }, 
+        {
+            "lat" : "33.8098906",
+            "lon" : "-84.4226808",
+            "accuracy" : "10",
+            "altitude" : "263.20001220703125",
+            "altitudeAccuracy" : "null",
+            "heading" : "304",
+            "speed" : "0.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:18 GMT"
+        }, 
+        {
+            "lat" : "33.809895",
+            "lon" : "-84.4226886",
+            "accuracy" : "10",
+            "altitude" : "262.8999938964844",
+            "altitudeAccuracy" : "null",
+            "heading" : "304",
+            "speed" : "0.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:18 GMT"
+        }, 
+        {
+            "lat" : "33.8098983",
+            "lon" : "-84.4227036",
+            "accuracy" : "10",
+            "altitude" : "263.1000061035156",
+            "altitudeAccuracy" : "null",
+            "heading" : "304",
+            "speed" : "0.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:19 GMT"
+        }, 
+        {
+            "lat" : "33.8099014",
+            "lon" : "-84.4227271",
+            "accuracy" : "10",
+            "altitude" : "261.6000061035156",
+            "altitudeAccuracy" : "null",
+            "heading" : "263",
+            "speed" : "1",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:20 GMT"
+        }, 
+        {
+            "lat" : "33.8099049",
+            "lon" : "-84.4227556",
+            "accuracy" : "10",
+            "altitude" : "260.79998779296875",
+            "altitudeAccuracy" : "null",
+            "heading" : "260",
+            "speed" : "1",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:21 GMT"
+        }, 
+        {
+            "lat" : "33.8099008",
+            "lon" : "-84.4227958",
+            "accuracy" : "10",
+            "altitude" : "262.1000061035156",
+            "altitudeAccuracy" : "null",
+            "heading" : "249",
+            "speed" : "2.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:23 GMT"
+        }, 
+        {
+            "lat" : "33.8098918",
+            "lon" : "-84.4228288",
+            "accuracy" : "9",
+            "altitude" : "263.1000061035156",
+            "altitudeAccuracy" : "null",
+            "heading" : "236",
+            "speed" : "2.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:23 GMT"
+        }, 
+        {
+            "lat" : "33.8098766",
+            "lon" : "-84.4228549",
+            "accuracy" : "10",
+            "altitude" : "262.8999938964844",
+            "altitudeAccuracy" : "null",
+            "heading" : "221",
+            "speed" : "2.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:24 GMT"
+        }, 
+        {
+            "lat" : "33.8098574",
+            "lon" : "-84.422876",
+            "accuracy" : "10",
+            "altitude" : "263.1000061035156",
+            "altitudeAccuracy" : "null",
+            "heading" : "211",
+            "speed" : "2.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:25 GMT"
+        }, 
+        {
+            "lat" : "33.809831",
+            "lon" : "-84.4228936",
+            "accuracy" : "10",
+            "altitude" : "262.70001220703125",
+            "altitudeAccuracy" : "null",
+            "heading" : "200",
+            "speed" : "2.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:26 GMT"
+        }, 
+        {
+            "lat" : "33.8098031",
+            "lon" : "-84.4229069",
+            "accuracy" : "10",
+            "altitude" : "263.79998779296875",
+            "altitudeAccuracy" : "null",
+            "heading" : "193",
+            "speed" : "2.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:27 GMT"
+        }, 
+        {
+            "lat" : "33.8097713",
+            "lon" : "-84.4229203",
+            "accuracy" : "10",
+            "altitude" : "263.20001220703125",
+            "altitudeAccuracy" : "null",
+            "heading" : "189",
+            "speed" : "3",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:28 GMT"
+        }, 
+        {
+            "lat" : "33.8097295",
+            "lon" : "-84.4229311",
+            "accuracy" : "10",
+            "altitude" : "263",
+            "altitudeAccuracy" : "null",
+            "heading" : "182",
+            "speed" : "4",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:29 GMT"
+        }, 
+        {
+            "lat" : "33.8096817",
+            "lon" : "-84.4229384",
+            "accuracy" : "10",
+            "altitude" : "263.3999938964844",
+            "altitudeAccuracy" : "null",
+            "heading" : "179",
+            "speed" : "4.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:30 GMT"
+        }, 
+        {
+            "lat" : "33.8096362",
+            "lon" : "-84.4229441",
+            "accuracy" : "10",
+            "altitude" : "264.1000061035156",
+            "altitudeAccuracy" : "null",
+            "heading" : "177",
+            "speed" : "4.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:31 GMT"
+        }, 
+        {
+            "lat" : "33.8095918",
+            "lon" : "-84.422951",
+            "accuracy" : "9",
+            "altitude" : "264.20001220703125",
+            "altitudeAccuracy" : "null",
+            "heading" : "177",
+            "speed" : "4.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:32 GMT"
+        }, 
+        {
+            "lat" : "33.8095496",
+            "lon" : "-84.4229579",
+            "accuracy" : "9",
+            "altitude" : "263.20001220703125",
+            "altitudeAccuracy" : "null",
+            "heading" : "178",
+            "speed" : "4.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:33 GMT"
+        }, 
+        {
+            "lat" : "33.8095094",
+            "lon" : "-84.4229665",
+            "accuracy" : "10",
+            "altitude" : "263",
+            "altitudeAccuracy" : "null",
+            "heading" : "180",
+            "speed" : "4.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:34 GMT"
+        }, 
+        {
+            "lat" : "33.8094759",
+            "lon" : "-84.4229815",
+            "accuracy" : "10",
+            "altitude" : "263.3999938964844",
+            "altitudeAccuracy" : "null",
+            "heading" : "188",
+            "speed" : "3.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:35 GMT"
+        }, 
+        {
+            "lat" : "33.8094443",
+            "lon" : "-84.4230049",
+            "accuracy" : "10",
+            "altitude" : "262.70001220703125",
+            "altitudeAccuracy" : "null",
+            "heading" : "199",
+            "speed" : "3.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:36 GMT"
+        }, 
+        {
+            "lat" : "33.809423",
+            "lon" : "-84.4230424",
+            "accuracy" : "10",
+            "altitude" : "262.29998779296875",
+            "altitudeAccuracy" : "null",
+            "heading" : "217",
+            "speed" : "3.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:37 GMT"
+        }, 
+        {
+            "lat" : "33.8094171",
+            "lon" : "-84.4230861",
+            "accuracy" : "10",
+            "altitude" : "263.1000061035156",
+            "altitudeAccuracy" : "null",
+            "heading" : "236",
+            "speed" : "3.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:38 GMT"
+        }, 
+        {
+            "lat" : "33.8094237",
+            "lon" : "-84.4231355",
+            "accuracy" : "9",
+            "altitude" : "261.3999938964844",
+            "altitudeAccuracy" : "null",
+            "heading" : "258",
+            "speed" : "3.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:39 GMT"
+        }, 
+        {
+            "lat" : "33.8094173",
+            "lon" : "-84.423175",
+            "accuracy" : "11",
+            "altitude" : "261.3999938964844",
+            "altitudeAccuracy" : "null",
+            "heading" : "258",
+            "speed" : "3.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:40 GMT"
+        }, 
+        {
+            "lat" : "33.8094414",
+            "lon" : "-84.4232445",
+            "accuracy" : "10",
+            "altitude" : "261.20001220703125",
+            "altitudeAccuracy" : "null",
+            "heading" : "269",
+            "speed" : "4",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:42 GMT"
+        }, 
+        {
+            "lat" : "33.8094852",
+            "lon" : "-84.4233728",
+            "accuracy" : "10",
+            "altitude" : "261.6000061035156",
+            "altitudeAccuracy" : "null",
+            "heading" : "270",
+            "speed" : "6",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:42 GMT"
+        }, 
+        {
+            "lat" : "33.8094843",
+            "lon" : "-84.4234383",
+            "accuracy" : "9",
+            "altitude" : "260.79998779296875",
+            "altitudeAccuracy" : "null",
+            "heading" : "268",
+            "speed" : "6.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:43 GMT"
+        }, 
+        {
+            "lat" : "33.809483",
+            "lon" : "-84.4235159",
+            "accuracy" : "9",
+            "altitude" : "260.8999938964844",
+            "altitudeAccuracy" : "null",
+            "heading" : "270",
+            "speed" : "6.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:44 GMT"
+        }, 
+        {
+            "lat" : "33.8094865",
+            "lon" : "-84.4235932",
+            "accuracy" : "10",
+            "altitude" : "260.3999938964844",
+            "altitudeAccuracy" : "null",
+            "heading" : "269",
+            "speed" : "6.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:46 GMT"
+        }, 
+        {
+            "lat" : "33.8094893",
+            "lon" : "-84.4236592",
+            "accuracy" : "10",
+            "altitude" : "261.1000061035156",
+            "altitudeAccuracy" : "null",
+            "heading" : "273",
+            "speed" : "6.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:46 GMT"
+        }, 
+        {
+            "lat" : "33.8094919",
+            "lon" : "-84.4237386",
+            "accuracy" : "10",
+            "altitude" : "259.79998779296875",
+            "altitudeAccuracy" : "null",
+            "heading" : "273",
+            "speed" : "6.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:47 GMT"
+        }, 
+        {
+            "lat" : "33.8094806",
+            "lon" : "-84.4238072",
+            "accuracy" : "10",
+            "altitude" : "260.8999938964844",
+            "altitudeAccuracy" : "null",
+            "heading" : "269",
+            "speed" : "6.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:48 GMT"
+        }, 
+        {
+            "lat" : "33.8094787",
+            "lon" : "-84.4238878",
+            "accuracy" : "9",
+            "altitude" : "261.1000061035156",
+            "altitudeAccuracy" : "null",
+            "heading" : "270",
+            "speed" : "6.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:50 GMT"
+        }, 
+        {
+            "lat" : "33.8094738",
+            "lon" : "-84.4239588",
+            "accuracy" : "10",
+            "altitude" : "259.6000061035156",
+            "altitudeAccuracy" : "null",
+            "heading" : "267",
+            "speed" : "6.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:50 GMT"
+        }, 
+        {
+            "lat" : "33.8094636",
+            "lon" : "-84.4240244",
+            "accuracy" : "10",
+            "altitude" : "257.70001220703125",
+            "altitudeAccuracy" : "null",
+            "heading" : "261",
+            "speed" : "6.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:51 GMT"
+        }, 
+        {
+            "lat" : "33.8094495",
+            "lon" : "-84.4240984",
+            "accuracy" : "10",
+            "altitude" : "255.6999969482422",
+            "altitudeAccuracy" : "null",
+            "heading" : "262",
+            "speed" : "6.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:52 GMT"
+        }, 
+        {
+            "lat" : "33.8094444",
+            "lon" : "-84.4241619",
+            "accuracy" : "11",
+            "altitude" : "254.8000030517578",
+            "altitudeAccuracy" : "null",
+            "heading" : "266",
+            "speed" : "6",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:53 GMT"
+        }, 
+        {
+            "lat" : "33.8094606",
+            "lon" : "-84.4242104",
+            "accuracy" : "10",
+            "altitude" : "255.39999389648438",
+            "altitudeAccuracy" : "null",
+            "heading" : "277",
+            "speed" : "5.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:54 GMT"
+        }, 
+        {
+            "lat" : "33.809473",
+            "lon" : "-84.4242604",
+            "accuracy" : "10",
+            "altitude" : "254.39999389648438",
+            "altitudeAccuracy" : "null",
+            "heading" : "283",
+            "speed" : "4.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:55 GMT"
+        }, 
+        {
+            "lat" : "33.8095499",
+            "lon" : "-84.4243139",
+            "accuracy" : "10",
+            "altitude" : "256.8999938964844",
+            "altitudeAccuracy" : "null",
+            "heading" : "313",
+            "speed" : "6.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:56 GMT"
+        }, 
+        {
+            "lat" : "33.8095882",
+            "lon" : "-84.4243463",
+            "accuracy" : "10",
+            "altitude" : "258.3999938964844",
+            "altitudeAccuracy" : "null",
+            "heading" : "319",
+            "speed" : "5.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:57 GMT"
+        }, 
+        {
+            "lat" : "33.8096228",
+            "lon" : "-84.4243847",
+            "accuracy" : "10",
+            "altitude" : "259.3999938964844",
+            "altitudeAccuracy" : "null",
+            "heading" : "323",
+            "speed" : "5.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:58 GMT"
+        }, 
+        {
+            "lat" : "33.8096493",
+            "lon" : "-84.4244258",
+            "accuracy" : "10",
+            "altitude" : "259.3999938964844",
+            "altitudeAccuracy" : "null",
+            "heading" : "311",
+            "speed" : "5",
+            "timestamp" : "Thu, 18 Sep 2014 00:23:59 GMT"
+        }, 
+        {
+            "lat" : "33.8096575",
+            "lon" : "-84.4244691",
+            "accuracy" : "10",
+            "altitude" : "258.79998779296875",
+            "altitudeAccuracy" : "null",
+            "heading" : "306",
+            "speed" : "4.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:00 GMT"
+        }, 
+        {
+            "lat" : "33.8096803",
+            "lon" : "-84.4245215",
+            "accuracy" : "10",
+            "altitude" : "258.8999938964844",
+            "altitudeAccuracy" : "null",
+            "heading" : "302",
+            "speed" : "4.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:01 GMT"
+        }, 
+        {
+            "lat" : "33.8096851",
+            "lon" : "-84.424561",
+            "accuracy" : "10",
+            "altitude" : "259.6000061035156",
+            "altitudeAccuracy" : "null",
+            "heading" : "298",
+            "speed" : "4.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:02 GMT"
+        }, 
+        {
+            "lat" : "33.8096799",
+            "lon" : "-84.4245895",
+            "accuracy" : "10",
+            "altitude" : "261.6000061035156",
+            "altitudeAccuracy" : "null",
+            "heading" : "293",
+            "speed" : "3.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:03 GMT"
+        }, 
+        {
+            "lat" : "33.8096972",
+            "lon" : "-84.4246255",
+            "accuracy" : "10",
+            "altitude" : "262.6000061035156",
+            "altitudeAccuracy" : "null",
+            "heading" : "288",
+            "speed" : "3.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:04 GMT"
+        }, 
+        {
+            "lat" : "33.809708",
+            "lon" : "-84.4246638",
+            "accuracy" : "13",
+            "altitude" : "263.20001220703125",
+            "altitudeAccuracy" : "null",
+            "heading" : "288",
+            "speed" : "3.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:05 GMT"
+        }, 
+        {
+            "lat" : "33.8097041",
+            "lon" : "-84.4247451",
+            "accuracy" : "11",
+            "altitude" : "261.70001220703125",
+            "altitudeAccuracy" : "null",
+            "heading" : "282",
+            "speed" : "4.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:06 GMT"
+        }, 
+        {
+            "lat" : "33.8097181",
+            "lon" : "-84.4247956",
+            "accuracy" : "11",
+            "altitude" : "261.70001220703125",
+            "altitudeAccuracy" : "null",
+            "heading" : "282",
+            "speed" : "4.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:08 GMT"
+        }, 
+        {
+            "lat" : "33.8097038",
+            "lon" : "-84.4248584",
+            "accuracy" : "10",
+            "altitude" : "262.8999938964844",
+            "altitudeAccuracy" : "null",
+            "heading" : "271",
+            "speed" : "4.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:08 GMT"
+        }, 
+        {
+            "lat" : "33.8097152",
+            "lon" : "-84.4249022",
+            "accuracy" : "10",
+            "altitude" : "264.8999938964844",
+            "altitudeAccuracy" : "null",
+            "heading" : "280",
+            "speed" : "4.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:10 GMT"
+        }, 
+        {
+            "lat" : "33.8097189",
+            "lon" : "-84.4249532",
+            "accuracy" : "10",
+            "altitude" : "264.6000061035156",
+            "altitudeAccuracy" : "null",
+            "heading" : "272",
+            "speed" : "4.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:10 GMT"
+        }, 
+        {
+            "lat" : "33.809721",
+            "lon" : "-84.424999",
+            "accuracy" : "10",
+            "altitude" : "265.29998779296875",
+            "altitudeAccuracy" : "null",
+            "heading" : "274",
+            "speed" : "4.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:11 GMT"
+        }, 
+        {
+            "lat" : "33.8097188",
+            "lon" : "-84.4250456",
+            "accuracy" : "10",
+            "altitude" : "266",
+            "altitudeAccuracy" : "null",
+            "heading" : "271",
+            "speed" : "4.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:13 GMT"
+        }, 
+        {
+            "lat" : "33.8097177",
+            "lon" : "-84.4250939",
+            "accuracy" : "10",
+            "altitude" : "265.6000061035156",
+            "altitudeAccuracy" : "null",
+            "heading" : "271",
+            "speed" : "4.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:13 GMT"
+        }, 
+        {
+            "lat" : "33.8097208",
+            "lon" : "-84.4251397",
+            "accuracy" : "10",
+            "altitude" : "264.8999938964844",
+            "altitudeAccuracy" : "null",
+            "heading" : "274",
+            "speed" : "4",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:14 GMT"
+        }, 
+        {
+            "lat" : "33.8097273",
+            "lon" : "-84.425183",
+            "accuracy" : "10",
+            "altitude" : "264.70001220703125",
+            "altitudeAccuracy" : "null",
+            "heading" : "278",
+            "speed" : "4",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:15 GMT"
+        }, 
+        {
+            "lat" : "33.8097384",
+            "lon" : "-84.4252255",
+            "accuracy" : "11",
+            "altitude" : "265.5",
+            "altitudeAccuracy" : "null",
+            "heading" : "283",
+            "speed" : "4",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:16 GMT"
+        }, 
+        {
+            "lat" : "33.8097487",
+            "lon" : "-84.4252618",
+            "accuracy" : "11",
+            "altitude" : "265.6000061035156",
+            "altitudeAccuracy" : "null",
+            "heading" : "284",
+            "speed" : "3.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:17 GMT"
+        }, 
+        {
+            "lat" : "33.8097566",
+            "lon" : "-84.4252991",
+            "accuracy" : "14",
+            "altitude" : "265.79998779296875",
+            "altitudeAccuracy" : "null",
+            "heading" : "284",
+            "speed" : "3.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:18 GMT"
+        }, 
+        {
+            "lat" : "33.8098217",
+            "lon" : "-84.4253136",
+            "accuracy" : "10",
+            "altitude" : "267.29998779296875",
+            "altitudeAccuracy" : "null",
+            "heading" : "322",
+            "speed" : "4.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:20 GMT"
+        }, 
+        {
+            "lat" : "33.809932",
+            "lon" : "-84.4253035",
+            "accuracy" : "11",
+            "altitude" : "267.29998779296875",
+            "altitudeAccuracy" : "null",
+            "heading" : "344",
+            "speed" : "5.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:20 GMT"
+        }, 
+        {
+            "lat" : "33.8099346",
+            "lon" : "-84.4252964",
+            "accuracy" : "10",
+            "altitude" : "265.79998779296875",
+            "altitudeAccuracy" : "null",
+            "heading" : "2",
+            "speed" : "5.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:21 GMT"
+        }, 
+        {
+            "lat" : "33.8099844",
+            "lon" : "-84.4252992",
+            "accuracy" : "10",
+            "altitude" : "265.3999938964844",
+            "altitudeAccuracy" : "null",
+            "heading" : "4",
+            "speed" : "6",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:23 GMT"
+        }, 
+        {
+            "lat" : "33.8100163",
+            "lon" : "-84.4253031",
+            "accuracy" : "10",
+            "altitude" : "265.8999938964844",
+            "altitudeAccuracy" : "null",
+            "heading" : "359",
+            "speed" : "6",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:23 GMT"
+        }, 
+        {
+            "lat" : "33.8100744",
+            "lon" : "-84.4253027",
+            "accuracy" : "11",
+            "altitude" : "266",
+            "altitudeAccuracy" : "null",
+            "heading" : "4",
+            "speed" : "7.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:25 GMT"
+        }, 
+        {
+            "lat" : "33.8101322",
+            "lon" : "-84.425311",
+            "accuracy" : "11",
+            "altitude" : "265.20001220703125",
+            "altitudeAccuracy" : "null",
+            "heading" : "1",
+            "speed" : "7.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:25 GMT"
+        }, 
+        {
+            "lat" : "33.810207",
+            "lon" : "-84.4253134",
+            "accuracy" : "10",
+            "altitude" : "264.6000061035156",
+            "altitudeAccuracy" : "null",
+            "heading" : "2",
+            "speed" : "8.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:27 GMT"
+        }, 
+        {
+            "lat" : "33.8102614",
+            "lon" : "-84.4253249",
+            "accuracy" : "10",
+            "altitude" : "262.79998779296875",
+            "altitudeAccuracy" : "null",
+            "heading" : "6",
+            "speed" : "8.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:27 GMT"
+        }, 
+        {
+            "lat" : "33.8103296",
+            "lon" : "-84.4253468",
+            "accuracy" : "11",
+            "altitude" : "261.1000061035156",
+            "altitudeAccuracy" : "null",
+            "heading" : "358",
+            "speed" : "8.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:28 GMT"
+        }, 
+        {
+            "lat" : "33.8104158",
+            "lon" : "-84.4253598",
+            "accuracy" : "11",
+            "altitude" : "260.29998779296875",
+            "altitudeAccuracy" : "null",
+            "heading" : "2",
+            "speed" : "8.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:29 GMT"
+        }, 
+        {
+            "lat" : "33.8104755",
+            "lon" : "-84.4253529",
+            "accuracy" : "11",
+            "altitude" : "259.5",
+            "altitudeAccuracy" : "null",
+            "heading" : "2",
+            "speed" : "8.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:30 GMT"
+        }, 
+        {
+            "lat" : "33.8105452",
+            "lon" : "-84.4253557",
+            "accuracy" : "12",
+            "altitude" : "258.70001220703125",
+            "altitudeAccuracy" : "null",
+            "heading" : "0",
+            "speed" : "8.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:31 GMT"
+        }, 
+        {
+            "lat" : "33.8106101",
+            "lon" : "-84.4253555",
+            "accuracy" : "12",
+            "altitude" : "258.20001220703125",
+            "altitudeAccuracy" : "null",
+            "heading" : "0",
+            "speed" : "7.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:32 GMT"
+        }, 
+        {
+            "lat" : "33.8106639",
+            "lon" : "-84.4253653",
+            "accuracy" : "11",
+            "altitude" : "258.20001220703125",
+            "altitudeAccuracy" : "null",
+            "heading" : "359",
+            "speed" : "6.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:33 GMT"
+        }, 
+        {
+            "lat" : "33.8107094",
+            "lon" : "-84.4253617",
+            "accuracy" : "12",
+            "altitude" : "258.29998779296875",
+            "altitudeAccuracy" : "null",
+            "heading" : "1",
+            "speed" : "6",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:34 GMT"
+        }, 
+        {
+            "lat" : "33.810762",
+            "lon" : "-84.4253784",
+            "accuracy" : "11",
+            "altitude" : "258.1000061035156",
+            "altitudeAccuracy" : "null",
+            "heading" : "359",
+            "speed" : "5.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:35 GMT"
+        }, 
+        {
+            "lat" : "33.8107447",
+            "lon" : "-84.4253085",
+            "accuracy" : "10",
+            "altitude" : "256.1000061035156",
+            "altitudeAccuracy" : "null",
+            "heading" : "64",
+            "speed" : "3.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:36 GMT"
+        }, 
+        {
+            "lat" : "33.8107478",
+            "lon" : "-84.4253282",
+            "accuracy" : "11",
+            "altitude" : "255.8000030517578",
+            "altitudeAccuracy" : "null",
+            "heading" : "59",
+            "speed" : "2.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:37 GMT"
+        }, 
+        {
+            "lat" : "33.8107393",
+            "lon" : "-84.4253735",
+            "accuracy" : "11",
+            "altitude" : "255.8000030517578",
+            "altitudeAccuracy" : "null",
+            "heading" : "59",
+            "speed" : "0.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:38 GMT"
+        }, 
+        {
+            "lat" : "33.8107396",
+            "lon" : "-84.4254045",
+            "accuracy" : "11",
+            "altitude" : "255.8000030517578",
+            "altitudeAccuracy" : "null",
+            "heading" : "59",
+            "speed" : "0.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:39 GMT"
+        }, 
+        {
+            "lat" : "33.8107772",
+            "lon" : "-84.4253782",
+            "accuracy" : "12",
+            "altitude" : "256.20001220703125",
+            "altitudeAccuracy" : "null",
+            "heading" : "54",
+            "speed" : "1.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:40 GMT"
+        }, 
+        {
+            "lat" : "33.8108051",
+            "lon" : "-84.4253335",
+            "accuracy" : "12",
+            "altitude" : "255.6999969482422",
+            "altitudeAccuracy" : "null",
+            "heading" : "52",
+            "speed" : "2.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:41 GMT"
+        }, 
+        {
+            "lat" : "33.8108266",
+            "lon" : "-84.4252598",
+            "accuracy" : "12",
+            "altitude" : "255.60000610351562",
+            "altitudeAccuracy" : "null",
+            "heading" : "60",
+            "speed" : "3.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:42 GMT"
+        }, 
+        {
+            "lat" : "33.8108648",
+            "lon" : "-84.4251679",
+            "accuracy" : "12",
+            "altitude" : "256.3999938964844",
+            "altitudeAccuracy" : "null",
+            "heading" : "61",
+            "speed" : "4.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:43 GMT"
+        }, 
+        {
+            "lat" : "33.8108761",
+            "lon" : "-84.4250785",
+            "accuracy" : "11",
+            "altitude" : "256.1000061035156",
+            "altitudeAccuracy" : "null",
+            "heading" : "68",
+            "speed" : "5",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:44 GMT"
+        }, 
+        {
+            "lat" : "33.810872",
+            "lon" : "-84.4250216",
+            "accuracy" : "11",
+            "altitude" : "256.1000061035156",
+            "altitudeAccuracy" : "null",
+            "heading" : "73",
+            "speed" : "5",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:45 GMT"
+        }, 
+        {
+            "lat" : "33.8108721",
+            "lon" : "-84.4249525",
+            "accuracy" : "11",
+            "altitude" : "256.20001220703125",
+            "altitudeAccuracy" : "null",
+            "heading" : "77",
+            "speed" : "5",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:46 GMT"
+        }, 
+        {
+            "lat" : "33.8108524",
+            "lon" : "-84.4248998",
+            "accuracy" : "11",
+            "altitude" : "256.1000061035156",
+            "altitudeAccuracy" : "null",
+            "heading" : "86",
+            "speed" : "4.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:47 GMT"
+        }, 
+        {
+            "lat" : "33.8108621",
+            "lon" : "-84.4248372",
+            "accuracy" : "11",
+            "altitude" : "254.8000030517578",
+            "altitudeAccuracy" : "null",
+            "heading" : "78",
+            "speed" : "4.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:48 GMT"
+        }, 
+        {
+            "lat" : "33.8108682",
+            "lon" : "-84.4247911",
+            "accuracy" : "11",
+            "altitude" : "253.8000030517578",
+            "altitudeAccuracy" : "null",
+            "heading" : "74",
+            "speed" : "4.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:49 GMT"
+        }, 
+        {
+            "lat" : "33.8108802",
+            "lon" : "-84.4247451",
+            "accuracy" : "11",
+            "altitude" : "253.3000030517578",
+            "altitudeAccuracy" : "null",
+            "heading" : "65",
+            "speed" : "4.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:50 GMT"
+        }, 
+        {
+            "lat" : "33.8108963",
+            "lon" : "-84.4247019",
+            "accuracy" : "13",
+            "altitude" : "253.1999969482422",
+            "altitudeAccuracy" : "null",
+            "heading" : "65",
+            "speed" : "4.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:51 GMT"
+        }, 
+        {
+            "lat" : "33.8109594",
+            "lon" : "-84.4247072",
+            "accuracy" : "10",
+            "altitude" : "255.6999969482422",
+            "altitudeAccuracy" : "null",
+            "heading" : "23",
+            "speed" : "3.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:52 GMT"
+        }, 
+        {
+            "lat" : "33.8109903",
+            "lon" : "-84.4247052",
+            "accuracy" : "10",
+            "altitude" : "256",
+            "altitudeAccuracy" : "null",
+            "heading" : "14",
+            "speed" : "2.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:54 GMT"
+        }, 
+        {
+            "lat" : "33.8110156",
+            "lon" : "-84.4246912",
+            "accuracy" : "10",
+            "altitude" : "255.1999969482422",
+            "altitudeAccuracy" : "null",
+            "heading" : "9",
+            "speed" : "2.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:54 GMT"
+        }, 
+        {
+            "lat" : "33.811053",
+            "lon" : "-84.4247315",
+            "accuracy" : "10",
+            "altitude" : "255",
+            "altitudeAccuracy" : "null",
+            "heading" : "347",
+            "speed" : "2.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:55 GMT"
+        }, 
+        {
+            "lat" : "33.8110227",
+            "lon" : "-84.4247573",
+            "accuracy" : "9",
+            "altitude" : "253.60000610351562",
+            "altitudeAccuracy" : "null",
+            "heading" : "246",
+            "speed" : "1.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:56 GMT"
+        }, 
+        {
+            "lat" : "33.8110062",
+            "lon" : "-84.4247652",
+            "accuracy" : "9",
+            "altitude" : "254.60000610351562",
+            "altitudeAccuracy" : "null",
+            "heading" : "202",
+            "speed" : "1.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:57 GMT"
+        }, 
+        {
+            "lat" : "33.8109908",
+            "lon" : "-84.4247734",
+            "accuracy" : "10",
+            "altitude" : "253.60000610351562",
+            "altitudeAccuracy" : "null",
+            "heading" : "195",
+            "speed" : "1.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:59 GMT"
+        }, 
+        {
+            "lat" : "33.8109751",
+            "lon" : "-84.4247802",
+            "accuracy" : "10",
+            "altitude" : "253.5",
+            "altitudeAccuracy" : "null",
+            "heading" : "192",
+            "speed" : "1.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:24:59 GMT"
+        }, 
+        {
+            "lat" : "33.8109572",
+            "lon" : "-84.4247817",
+            "accuracy" : "10",
+            "altitude" : "253.6999969482422",
+            "altitudeAccuracy" : "null",
+            "heading" : "181",
+            "speed" : "1.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:00 GMT"
+        }, 
+        {
+            "lat" : "33.8109363",
+            "lon" : "-84.4247868",
+            "accuracy" : "10",
+            "altitude" : "252.89999389648438",
+            "altitudeAccuracy" : "null",
+            "heading" : "183",
+            "speed" : "2",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:01 GMT"
+        }, 
+        {
+            "lat" : "33.8109042",
+            "lon" : "-84.4248153",
+            "accuracy" : "10",
+            "altitude" : "252.1999969482422",
+            "altitudeAccuracy" : "null",
+            "heading" : "206",
+            "speed" : "3.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:02 GMT"
+        }, 
+        {
+            "lat" : "33.8108858",
+            "lon" : "-84.424856",
+            "accuracy" : "10",
+            "altitude" : "252.3000030517578",
+            "altitudeAccuracy" : "null",
+            "heading" : "227",
+            "speed" : "3.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:04 GMT"
+        }, 
+        {
+            "lat" : "33.8108803",
+            "lon" : "-84.4249031",
+            "accuracy" : "10",
+            "altitude" : "251.6999969482422",
+            "altitudeAccuracy" : "null",
+            "heading" : "245",
+            "speed" : "3.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:04 GMT"
+        }, 
+        {
+            "lat" : "33.8108812",
+            "lon" : "-84.4249508",
+            "accuracy" : "10",
+            "altitude" : "251.60000610351562",
+            "altitudeAccuracy" : "null",
+            "heading" : "257",
+            "speed" : "3.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:06 GMT"
+        }, 
+        {
+            "lat" : "33.810885",
+            "lon" : "-84.4249972",
+            "accuracy" : "9",
+            "altitude" : "249.1999969482422",
+            "altitudeAccuracy" : "null",
+            "heading" : "265",
+            "speed" : "3.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:06 GMT"
+        }, 
+        {
+            "lat" : "33.8108907",
+            "lon" : "-84.4250417",
+            "accuracy" : "10",
+            "altitude" : "250.10000610351562",
+            "altitudeAccuracy" : "null",
+            "heading" : "269",
+            "speed" : "4",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:08 GMT"
+        }, 
+        {
+            "lat" : "33.8108991",
+            "lon" : "-84.4250839",
+            "accuracy" : "10",
+            "altitude" : "249.6999969482422",
+            "altitudeAccuracy" : "null",
+            "heading" : "273",
+            "speed" : "3.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:08 GMT"
+        }, 
+        {
+            "lat" : "33.8109093",
+            "lon" : "-84.4251229",
+            "accuracy" : "10",
+            "altitude" : "248.39999389648438",
+            "altitudeAccuracy" : "null",
+            "heading" : "276",
+            "speed" : "3.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:09 GMT"
+        }, 
+        {
+            "lat" : "33.8109178",
+            "lon" : "-84.4251593",
+            "accuracy" : "10",
+            "altitude" : "247.39999389648438",
+            "altitudeAccuracy" : "null",
+            "heading" : "275",
+            "speed" : "3.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:10 GMT"
+        }, 
+        {
+            "lat" : "33.8109238",
+            "lon" : "-84.4251877",
+            "accuracy" : "10",
+            "altitude" : "246",
+            "altitudeAccuracy" : "null",
+            "heading" : "272",
+            "speed" : "3",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:11 GMT"
+        }, 
+        {
+            "lat" : "33.8109284",
+            "lon" : "-84.4252175",
+            "accuracy" : "10",
+            "altitude" : "244.3000030517578",
+            "altitudeAccuracy" : "null",
+            "heading" : "270",
+            "speed" : "3",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:13 GMT"
+        }, 
+        {
+            "lat" : "33.8109324",
+            "lon" : "-84.4252489",
+            "accuracy" : "10",
+            "altitude" : "243.5",
+            "altitudeAccuracy" : "null",
+            "heading" : "269",
+            "speed" : "3",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:13 GMT"
+        }, 
+        {
+            "lat" : "33.8109346",
+            "lon" : "-84.4252779",
+            "accuracy" : "10",
+            "altitude" : "244.10000610351562",
+            "altitudeAccuracy" : "null",
+            "heading" : "266",
+            "speed" : "3",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:15 GMT"
+        }, 
+        {
+            "lat" : "33.8109342",
+            "lon" : "-84.4253035",
+            "accuracy" : "10",
+            "altitude" : "245.1999969482422",
+            "altitudeAccuracy" : "null",
+            "heading" : "263",
+            "speed" : "2.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:15 GMT"
+        }, 
+        {
+            "lat" : "33.8109309",
+            "lon" : "-84.4253208",
+            "accuracy" : "9",
+            "altitude" : "250.3000030517578",
+            "altitudeAccuracy" : "null",
+            "heading" : "260",
+            "speed" : "2.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:17 GMT"
+        }, 
+        {
+            "lat" : "33.8109292",
+            "lon" : "-84.425325",
+            "accuracy" : "10",
+            "altitude" : "251",
+            "altitudeAccuracy" : "null",
+            "heading" : "256",
+            "speed" : "1.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:17 GMT"
+        }, 
+        {
+            "lat" : "33.8109279",
+            "lon" : "-84.4253422",
+            "accuracy" : "9",
+            "altitude" : "250.39999389648438",
+            "altitudeAccuracy" : "null",
+            "heading" : "260",
+            "speed" : "2",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:18 GMT"
+        }, 
+        {
+            "lat" : "33.8109279",
+            "lon" : "-84.4253629",
+            "accuracy" : "9",
+            "altitude" : "251.39999389648438",
+            "altitudeAccuracy" : "null",
+            "heading" : "267",
+            "speed" : "2",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:19 GMT"
+        }, 
+        {
+            "lat" : "33.8109252",
+            "lon" : "-84.4253853",
+            "accuracy" : "9",
+            "altitude" : "252.60000610351562",
+            "altitudeAccuracy" : "null",
+            "heading" : "265",
+            "speed" : "2.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:21 GMT"
+        }, 
+        {
+            "lat" : "33.8109184",
+            "lon" : "-84.4254091",
+            "accuracy" : "10",
+            "altitude" : "252.39999389648438",
+            "altitudeAccuracy" : "null",
+            "heading" : "257",
+            "speed" : "2.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:21 GMT"
+        }, 
+        {
+            "lat" : "33.8109052",
+            "lon" : "-84.4254285",
+            "accuracy" : "10",
+            "altitude" : "251.1999969482422",
+            "altitudeAccuracy" : "null",
+            "heading" : "239",
+            "speed" : "2",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:22 GMT"
+        }, 
+        {
+            "lat" : "33.8108884",
+            "lon" : "-84.4254441",
+            "accuracy" : "10",
+            "altitude" : "250.5",
+            "altitudeAccuracy" : "null",
+            "heading" : "226",
+            "speed" : "2",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:24 GMT"
+        }, 
+        {
+            "lat" : "33.8108636",
+            "lon" : "-84.4254521",
+            "accuracy" : "10",
+            "altitude" : "249.60000610351562",
+            "altitudeAccuracy" : "null",
+            "heading" : "205",
+            "speed" : "2.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:24 GMT"
+        }, 
+        {
+            "lat" : "33.8108326",
+            "lon" : "-84.4254555",
+            "accuracy" : "10",
+            "altitude" : "248.89999389648438",
+            "altitudeAccuracy" : "null",
+            "heading" : "191",
+            "speed" : "2.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:26 GMT"
+        }, 
+        {
+            "lat" : "33.8107958",
+            "lon" : "-84.4254608",
+            "accuracy" : "10",
+            "altitude" : "248.8000030517578",
+            "altitudeAccuracy" : "null",
+            "heading" : "186",
+            "speed" : "2.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:26 GMT"
+        }, 
+        {
+            "lat" : "33.8107377",
+            "lon" : "-84.4254674",
+            "accuracy" : "10",
+            "altitude" : "246.89999389648438",
+            "altitudeAccuracy" : "null",
+            "heading" : "183",
+            "speed" : "4.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:28 GMT"
+        }, 
+        {
+            "lat" : "33.8106598",
+            "lon" : "-84.4254731",
+            "accuracy" : "10",
+            "altitude" : "246.8000030517578",
+            "altitudeAccuracy" : "null",
+            "heading" : "181",
+            "speed" : "5.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:28 GMT"
+        }, 
+        {
+            "lat" : "33.8105043",
+            "lon" : "-84.4255004",
+            "accuracy" : "10",
+            "altitude" : "246.8000030517578",
+            "altitudeAccuracy" : "null",
+            "heading" : "178",
+            "speed" : "5.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:30 GMT"
+        }, 
+        {
+            "lat" : "33.8104394",
+            "lon" : "-84.4255254",
+            "accuracy" : "10",
+            "altitude" : "246.10000610351562",
+            "altitudeAccuracy" : "null",
+            "heading" : "180",
+            "speed" : "5.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:30 GMT"
+        }, 
+        {
+            "lat" : "33.8103787",
+            "lon" : "-84.4255264",
+            "accuracy" : "10",
+            "altitude" : "246",
+            "altitudeAccuracy" : "null",
+            "heading" : "177",
+            "speed" : "5.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:32 GMT"
+        }, 
+        {
+            "lat" : "33.810336",
+            "lon" : "-84.425539",
+            "accuracy" : "10",
+            "altitude" : "246.6999969482422",
+            "altitudeAccuracy" : "null",
+            "heading" : "180",
+            "speed" : "5.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:33 GMT"
+        }, 
+        {
+            "lat" : "33.8102869",
+            "lon" : "-84.4255482",
+            "accuracy" : "10",
+            "altitude" : "245.39999389648438",
+            "altitudeAccuracy" : "null",
+            "heading" : "178",
+            "speed" : "5.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:33 GMT"
+        }, 
+        {
+            "lat" : "33.810239",
+            "lon" : "-84.4255549",
+            "accuracy" : "10",
+            "altitude" : "245.89999389648438",
+            "altitudeAccuracy" : "null",
+            "heading" : "180",
+            "speed" : "5.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:35 GMT"
+        }, 
+        {
+            "lat" : "33.8102021",
+            "lon" : "-84.4255572",
+            "accuracy" : "10",
+            "altitude" : "246.1999969482422",
+            "altitudeAccuracy" : "null",
+            "heading" : "177",
+            "speed" : "4.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:35 GMT"
+        }, 
+        {
+            "lat" : "33.8101564",
+            "lon" : "-84.4255599",
+            "accuracy" : "10",
+            "altitude" : "248.10000610351562",
+            "altitudeAccuracy" : "null",
+            "heading" : "179",
+            "speed" : "4.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:36 GMT"
+        }, 
+        {
+            "lat" : "33.8101168",
+            "lon" : "-84.4255666",
+            "accuracy" : "9",
+            "altitude" : "248.8000030517578",
+            "altitudeAccuracy" : "null",
+            "heading" : "176",
+            "speed" : "4.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:37 GMT"
+        }, 
+        {
+            "lat" : "33.8100789",
+            "lon" : "-84.425565",
+            "accuracy" : "10",
+            "altitude" : "249.39999389648438",
+            "altitudeAccuracy" : "null",
+            "heading" : "178",
+            "speed" : "4.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:38 GMT"
+        }, 
+        {
+            "lat" : "33.8100532",
+            "lon" : "-84.4255605",
+            "accuracy" : "9",
+            "altitude" : "248.89999389648438",
+            "altitudeAccuracy" : "null",
+            "heading" : "170",
+            "speed" : "3.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:39 GMT"
+        }, 
+        {
+            "lat" : "33.8100153",
+            "lon" : "-84.4255553",
+            "accuracy" : "10",
+            "altitude" : "249.10000610351562",
+            "altitudeAccuracy" : "null",
+            "heading" : "174",
+            "speed" : "3.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:40 GMT"
+        }, 
+        {
+            "lat" : "33.8099836",
+            "lon" : "-84.4255569",
+            "accuracy" : "10",
+            "altitude" : "249",
+            "altitudeAccuracy" : "null",
+            "heading" : "175",
+            "speed" : "3.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:41 GMT"
+        }, 
+        {
+            "lat" : "33.8099424",
+            "lon" : "-84.4255694",
+            "accuracy" : "10",
+            "altitude" : "248",
+            "altitudeAccuracy" : "null",
+            "heading" : "188",
+            "speed" : "3.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:42 GMT"
+        }, 
+        {
+            "lat" : "33.8099155",
+            "lon" : "-84.425569",
+            "accuracy" : "10",
+            "altitude" : "248.1999969482422",
+            "altitudeAccuracy" : "null",
+            "heading" : "177",
+            "speed" : "2.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:43 GMT"
+        }, 
+        {
+            "lat" : "33.809879",
+            "lon" : "-84.425571",
+            "accuracy" : "9",
+            "altitude" : "249.1999969482422",
+            "altitudeAccuracy" : "null",
+            "heading" : "179",
+            "speed" : "3.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:44 GMT"
+        }, 
+        {
+            "lat" : "33.8098539",
+            "lon" : "-84.4255674",
+            "accuracy" : "9",
+            "altitude" : "250",
+            "altitudeAccuracy" : "null",
+            "heading" : "175",
+            "speed" : "2.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:45 GMT"
+        }, 
+        {
+            "lat" : "33.8098317",
+            "lon" : "-84.4255666",
+            "accuracy" : "10",
+            "altitude" : "250.60000610351562",
+            "altitudeAccuracy" : "null",
+            "heading" : "179",
+            "speed" : "2.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:46 GMT"
+        }, 
+        {
+            "lat" : "33.8098094",
+            "lon" : "-84.4255664",
+            "accuracy" : "10",
+            "altitude" : "250.6999969482422",
+            "altitudeAccuracy" : "null",
+            "heading" : "178",
+            "speed" : "2.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:47 GMT"
+        }, 
+        {
+            "lat" : "33.8097859",
+            "lon" : "-84.4255667",
+            "accuracy" : "9",
+            "altitude" : "251.8000030517578",
+            "altitudeAccuracy" : "null",
+            "heading" : "178",
+            "speed" : "2.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:48 GMT"
+        }, 
+        {
+            "lat" : "33.8097623",
+            "lon" : "-84.4255663",
+            "accuracy" : "10",
+            "altitude" : "252.5",
+            "altitudeAccuracy" : "null",
+            "heading" : "177",
+            "speed" : "2.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:50 GMT"
+        }, 
+        {
+            "lat" : "33.8097373",
+            "lon" : "-84.4255647",
+            "accuracy" : "10",
+            "altitude" : "252.6999969482422",
+            "altitudeAccuracy" : "null",
+            "heading" : "175",
+            "speed" : "2.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:50 GMT"
+        }, 
+        {
+            "lat" : "33.8097092",
+            "lon" : "-84.4255641",
+            "accuracy" : "10",
+            "altitude" : "251.3000030517578",
+            "altitudeAccuracy" : "null",
+            "heading" : "176",
+            "speed" : "2.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:51 GMT"
+        }, 
+        {
+            "lat" : "33.8096819",
+            "lon" : "-84.425566",
+            "accuracy" : "10",
+            "altitude" : "251.10000610351562",
+            "altitudeAccuracy" : "null",
+            "heading" : "180",
+            "speed" : "2.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:52 GMT"
+        }, 
+        {
+            "lat" : "33.8096577",
+            "lon" : "-84.4255758",
+            "accuracy" : "10",
+            "altitude" : "252.5",
+            "altitudeAccuracy" : "null",
+            "heading" : "192",
+            "speed" : "2.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:54 GMT"
+        }, 
+        {
+            "lat" : "33.809642",
+            "lon" : "-84.4255929",
+            "accuracy" : "9",
+            "altitude" : "252.39999389648438",
+            "altitudeAccuracy" : "null",
+            "heading" : "212",
+            "speed" : "2.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:54 GMT"
+        }, 
+        {
+            "lat" : "33.8096355",
+            "lon" : "-84.4256179",
+            "accuracy" : "10",
+            "altitude" : "252.10000610351562",
+            "altitudeAccuracy" : "null",
+            "heading" : "240",
+            "speed" : "2.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:55 GMT"
+        }, 
+        {
+            "lat" : "33.8096369",
+            "lon" : "-84.425636",
+            "accuracy" : "10",
+            "altitude" : "252.6999969482422",
+            "altitudeAccuracy" : "null",
+            "heading" : "256",
+            "speed" : "1.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:56 GMT"
+        }, 
+        {
+            "lat" : "33.8096415",
+            "lon" : "-84.425655",
+            "accuracy" : "10",
+            "altitude" : "253.3000030517578",
+            "altitudeAccuracy" : "null",
+            "heading" : "269",
+            "speed" : "1.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:57 GMT"
+        }, 
+        {
+            "lat" : "33.8096472",
+            "lon" : "-84.4256785",
+            "accuracy" : "10",
+            "altitude" : "253.3000030517578",
+            "altitudeAccuracy" : "null",
+            "heading" : "276",
+            "speed" : "2.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:58 GMT"
+        }, 
+        {
+            "lat" : "33.8096529",
+            "lon" : "-84.4257046",
+            "accuracy" : "10",
+            "altitude" : "252.89999389648438",
+            "altitudeAccuracy" : "null",
+            "heading" : "279",
+            "speed" : "2.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:25:59 GMT"
+        }, 
+        {
+            "lat" : "33.8096521",
+            "lon" : "-84.4257367",
+            "accuracy" : "9",
+            "altitude" : "252.6999969482422",
+            "altitudeAccuracy" : "null",
+            "heading" : "267",
+            "speed" : "2.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:26:00 GMT"
+        }, 
+        {
+            "lat" : "33.8096395",
+            "lon" : "-84.4257649",
+            "accuracy" : "9",
+            "altitude" : "252.60000610351562",
+            "altitudeAccuracy" : "null",
+            "heading" : "246",
+            "speed" : "2.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:26:01 GMT"
+        }, 
+        {
+            "lat" : "33.8096179",
+            "lon" : "-84.4257768",
+            "accuracy" : "9",
+            "altitude" : "253.39999389648438",
+            "altitudeAccuracy" : "null",
+            "heading" : "214",
+            "speed" : "2.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:26:02 GMT"
+        }, 
+        {
+            "lat" : "33.8095958",
+            "lon" : "-84.425774",
+            "accuracy" : "10",
+            "altitude" : "254.1999969482422",
+            "altitudeAccuracy" : "null",
+            "heading" : "186",
+            "speed" : "2",
+            "timestamp" : "Thu, 18 Sep 2014 00:26:03 GMT"
+        }, 
+        {
+            "lat" : "33.8095782",
+            "lon" : "-84.4257617",
+            "accuracy" : "10",
+            "altitude" : "254.6999969482422",
+            "altitudeAccuracy" : "null",
+            "heading" : "157",
+            "speed" : "2",
+            "timestamp" : "Thu, 18 Sep 2014 00:26:05 GMT"
+        }, 
+        {
+            "lat" : "33.8095703",
+            "lon" : "-84.4257475",
+            "accuracy" : "9",
+            "altitude" : "253.60000610351562",
+            "altitudeAccuracy" : "null",
+            "heading" : "135",
+            "speed" : "1.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:26:05 GMT"
+        }, 
+        {
+            "lat" : "33.8095647",
+            "lon" : "-84.4257296",
+            "accuracy" : "9",
+            "altitude" : "253.60000610351562",
+            "altitudeAccuracy" : "null",
+            "heading" : "116",
+            "speed" : "1.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:26:07 GMT"
+        }, 
+        {
+            "lat" : "33.8095586",
+            "lon" : "-84.4257084",
+            "accuracy" : "10",
+            "altitude" : "254.5",
+            "altitudeAccuracy" : "null",
+            "heading" : "106",
+            "speed" : "1.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:26:07 GMT"
+        }, 
+        {
+            "lat" : "33.8095491",
+            "lon" : "-84.4256846",
+            "accuracy" : "10",
+            "altitude" : "254.60000610351562",
+            "altitudeAccuracy" : "null",
+            "heading" : "108",
+            "speed" : "1.75",
+            "timestamp" : "Thu, 18 Sep 2014 00:26:08 GMT"
+        }, 
+        {
+            "lat" : "33.8095386",
+            "lon" : "-84.4256512",
+            "accuracy" : "10",
+            "altitude" : "255",
+            "altitudeAccuracy" : "null",
+            "heading" : "104",
+            "speed" : "2.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:26:09 GMT"
+        }, 
+        {
+            "lat" : "33.8095328",
+            "lon" : "-84.4255956",
+            "accuracy" : "10",
+            "altitude" : "255.1999969482422",
+            "altitudeAccuracy" : "null",
+            "heading" : "95",
+            "speed" : "4",
+            "timestamp" : "Thu, 18 Sep 2014 00:26:10 GMT"
+        }, 
+        {
+            "lat" : "33.8095315",
+            "lon" : "-84.4255417",
+            "accuracy" : "10",
+            "altitude" : "254.8000030517578",
+            "altitudeAccuracy" : "null",
+            "heading" : "91",
+            "speed" : "4.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:26:11 GMT"
+        }, 
+        {
+            "lat" : "33.8095337",
+            "lon" : "-84.4254883",
+            "accuracy" : "10",
+            "altitude" : "254.8000030517578",
+            "altitudeAccuracy" : "null",
+            "heading" : "87",
+            "speed" : "4.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:26:12 GMT"
+        }, 
+        {
+            "lat" : "33.8095376",
+            "lon" : "-84.4254333",
+            "accuracy" : "10",
+            "altitude" : "254",
+            "altitudeAccuracy" : "null",
+            "heading" : "85",
+            "speed" : "4.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:26:13 GMT"
+        }, 
+        {
+            "lat" : "33.8095435",
+            "lon" : "-84.4253774",
+            "accuracy" : "10",
+            "altitude" : "253.5",
+            "altitudeAccuracy" : "null",
+            "heading" : "83",
+            "speed" : "4.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:26:14 GMT"
+        }, 
+        {
+            "lat" : "33.8095485",
+            "lon" : "-84.4253228",
+            "accuracy" : "10",
+            "altitude" : "253.1999969482422",
+            "altitudeAccuracy" : "null",
+            "heading" : "83",
+            "speed" : "4.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:26:16 GMT"
+        }, 
+        {
+            "lat" : "33.8095495",
+            "lon" : "-84.4252713",
+            "accuracy" : "10",
+            "altitude" : "252.3000030517578",
+            "altitudeAccuracy" : "null",
+            "heading" : "85",
+            "speed" : "4.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:26:16 GMT"
+        }, 
+        {
+            "lat" : "33.8095454",
+            "lon" : "-84.4252269",
+            "accuracy" : "10",
+            "altitude" : "251.5",
+            "altitudeAccuracy" : "null",
+            "heading" : "91",
+            "speed" : "4",
+            "timestamp" : "Thu, 18 Sep 2014 00:26:17 GMT"
+        }, 
+        {
+            "lat" : "33.8095372",
+            "lon" : "-84.4251993",
+            "accuracy" : "10",
+            "altitude" : "251.3000030517578",
+            "altitudeAccuracy" : "null",
+            "heading" : "100",
+            "speed" : "2.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:26:18 GMT"
+        }, 
+        {
+            "lat" : "33.8095278",
+            "lon" : "-84.425178",
+            "accuracy" : "10",
+            "altitude" : "250.89999389648438",
+            "altitudeAccuracy" : "null",
+            "heading" : "106",
+            "speed" : "2",
+            "timestamp" : "Thu, 18 Sep 2014 00:26:19 GMT"
+        }, 
+        {
+            "lat" : "33.8095191",
+            "lon" : "-84.4251623",
+            "accuracy" : "10",
+            "altitude" : "250.89999389648438",
+            "altitudeAccuracy" : "null",
+            "heading" : "110",
+            "speed" : "1.5",
+            "timestamp" : "Thu, 18 Sep 2014 00:26:20 GMT"
+        }, 
+        {
+            "lat" : "33.8095098",
+            "lon" : "-84.4251493",
+            "accuracy" : "10",
+            "altitude" : "250.6999969482422",
+            "altitudeAccuracy" : "null",
+            "heading" : "117",
+            "speed" : "1.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:26:21 GMT"
+        }, 
+        {
+            "lat" : "33.8095",
+            "lon" : "-84.4251397",
+            "accuracy" : "10",
+            "altitude" : "251.39999389648438",
+            "altitudeAccuracy" : "null",
+            "heading" : "127",
+            "speed" : "1.25",
+            "timestamp" : "Thu, 18 Sep 2014 00:26:22 GMT"
+        }, 
+        {
+            "lat" : "33.8094929",
+            "lon" : "-84.4251311",
+            "accuracy" : "10",
+            "altitude" : "248.60000610351562",
+            "altitudeAccuracy" : "null",
+            "heading" : "128",
+            "speed" : "1",
+            "timestamp" : "Thu, 18 Sep 2014 00:26:23 GMT"
+        }
+]
